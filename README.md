@@ -9,7 +9,7 @@ npm i
 npm run dev
 ```
 
-## Aplicações e Bibliotecas:
+## Dependências:
 ```
 "dependencies": {
     "ejs": "^3.1.10",
