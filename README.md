@@ -2,7 +2,7 @@
 Este é um simples modelo de um servidor Express - Framework Node.JS - feito sem nenhuma outra biblioteca dessemelhante.
 
 ## Inicialização
-Ao realizar o clone do repositório, abrir o terminar e digitar:
+Ao realizar o clone do repositório, abrir o terminar do VScode e digitar:
 
 ```
 npm i
